@@ -1,4 +1,4 @@
-# CS50 Python - [DUGBUS]
+# CS50 Python
 
 This repository contains the problem sets and projects I complete as part of
 Harvard's CS50's Introduction to Programming with Python course.
