@@ -22,4 +22,4 @@ as:
 
 Each week's problem set or project will exist as a file in this directory.
 
-hello.py
+hello.py calculator.py
