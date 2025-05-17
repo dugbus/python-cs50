@@ -1,7 +1,17 @@
-x = float(input("Enter first number: "))
-y = float(input("Enter second number: "))
+"""
+Just adding this to remind me of the multi-line format
+"""
 
-z = x / y
+def main():
+    x = float(input("Enter first number: "))
+    y = float(input("Enter second number: "))
 
-print(f"{z:,.2f}")
-print(z)
+    z = divide(x, y)
+
+    print(f"{z:,.2f}")
+    print(z)
+
+def divide(x, y):
+    return x / y
+
+main()
