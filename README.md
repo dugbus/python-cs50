@@ -1,7 +1,9 @@
-# CS50 Python
+# CS50's Introduction to Programming with Python
 
 This repository contains the problem sets and projects I complete as part of
 Harvard's CS50's Introduction to Programming with Python course.
+
+[https://pll.harvard.edu/course/cs50s-introduction-programming-python](https://pll.harvard.edu/course/cs50s-introduction-programming-python)
 
 ## About CS50 Python
 
