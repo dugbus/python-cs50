@@ -3,7 +3,7 @@
 This repository contains the problem sets and projects I complete as part of
 Harvard's CS50's Introduction to Programming with Python course.
 
-<a href="https://pll.harvard.edu/course/cs50s-introduction-programming-python" target="_blank">https://pll.harvard.edu/course/cs50s-introduction-programming-python</a>
+[https://pll.harvard.edu/course/cs50s-introduction-programming-python](https://pll.harvard.edu/course/cs50s-introduction-programming-python)
 
 ## About CS50 Python
 
